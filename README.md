@@ -17,7 +17,7 @@
 
 ### Bước 1: Tải Code Về Máy
 ```bash
-git clone https://github.com/anngyn/SentimentAnalysis_NLP.git
+git clone https://github.com/anngyn/Sentiment-Analysis-on-Student-Feedback-about-Quality-of-Education
 ```
 
 ### Bước 2: Cài Đặt Thư Viện Cần Thiết
@@ -35,13 +35,5 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
----
-
-## Thông Tin Liên Hệ
-- **Trần Quang Đạt** (22520236@gm.uit.edu.vn) (Phone: 0844376333)
-- **Nguyễn Ấn** (22520019@gm.uit.edu.vn)
-
-Copyright © 2025
 """
 
